@@ -1,0 +1,4 @@
+{
+  "MQ_QUEUE_ORDER": "jslight-service-order",
+  "MQ_QUEUE_ACCOUNT": "jslight-service-account"
+}
